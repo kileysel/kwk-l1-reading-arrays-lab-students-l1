@@ -28,4 +28,3 @@ end
  puts big_ticket_prices
 # => [19.99, 75.00]
   
-  
