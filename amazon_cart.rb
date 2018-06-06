@@ -7,4 +7,5 @@ cart_item_prices.push(5.30)
 # cart_item_prices.each do |price|
 #   puts "the price is #{price}"
 #   count += 1 
+
 end 
